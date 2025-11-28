@@ -1,0 +1,23 @@
+{
+  "name": "QuizziBrain",
+  "short_name": "QuizziBrain",
+  "description": "Plataforma educativa de quizzes interactivos diseñada para alumnos, con categorías, retroalimentación y diseño moderno.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EAF4FF",
+  "theme_color": "#0D47A1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
