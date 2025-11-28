@@ -1,0 +1,96 @@
+{
+    "Geografía": [
+        {
+            "pregunta": "¿Cuál es el continente más grande del planeta?",
+            "opciones": [
+                "Europa",
+                "Asia",
+                "África",
+                "América"
+            ],
+            "respuesta": 1
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la torre Eiffel?",
+            "opciones": [
+                "Italia",
+                "España",
+                "Francia",
+                "Alemania"
+            ],
+            "respuesta": 2
+        }
+    ],
+    "Historia": [
+        {
+            "pregunta": "¿En qué año inició la Segunda Guerra Mundial?",
+            "opciones": [
+                "1914",
+                "1939",
+                "1945",
+                "1929"
+            ],
+            "respuesta": 1
+        }
+    ],
+    "Computacion": [
+        {
+            "pregunta": "¿Qué significa CPU?",
+            "opciones": [
+                "Central Process Unit",
+                "Central Processing Unit",
+                "Computer Personal Unit",
+                "Control Processing User"
+            ],
+            "respuesta": 1
+        }
+    ],
+    "Enfermeria": [
+        {
+            "pregunta": "La presión arterial normal aproximada en un adulto sano es:",
+            "opciones": [
+                "80/40",
+                "90/60",
+                "120/80",
+                "140/100"
+            ],
+            "respuesta": 2
+        }
+    ],
+    "Ingles": [
+        {
+            "pregunta": "¿Cómo se dice 'libro' en inglés?",
+            "opciones": [
+                "Book",
+                "Table",
+                "Pen",
+                "Door"
+            ],
+            "respuesta": 0
+        }
+    ],
+    "Logica": [
+        {
+            "pregunta": "Si todos los perros ladran y 'Max' es un perro, entonces:",
+            "opciones": [
+                "Max no ladra",
+                "Max ladra",
+                "Ninguna de las anteriores",
+                "Max es un gato"
+            ],
+            "respuesta": 1
+        }
+    ],
+    "Matematicas": [
+        {
+            "pregunta": "¿Cuál es el resultado de 8 × 7?",
+            "opciones": [
+                "42",
+                "54",
+                "56",
+                "64"
+            ],
+            "respuesta": 2
+        }
+    ]
+}
