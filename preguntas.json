@@ -1,0 +1,142 @@
+{
+  "logica": [
+    {
+      "pregunta": "El valor de verdad de p <-> q es verdadero si:",
+      "opciones": [
+        "Ambas son verdaderas o ambas son falsas",
+        "Solo si ambas son verdaderas",
+        "Si solo una es verdadera",
+        "Si una es falsa y otra verdadera"
+      ],
+      "respuesta": "Ambas son verdaderas o ambas son falsas"
+    },
+    {
+      "pregunta": "En una implicación p -> q, ¿cuál combinación la hace falsa?",
+      "opciones": [
+        "p verdadero y q verdadero",
+        "p verdadero y q falso",
+        "p falso y q verdadero",
+        "p falso y q falso"
+      ],
+      "respuesta": "p verdadero y q falso"
+    }
+  ],
+  "matematicas": [
+    {
+      "pregunta": "¿Cuál es la derivada de f(x) = 3x² + 2x - 5?",
+      "opciones": [
+        "6x + 2",
+        "6x - 2",
+        "3x + 2",
+        "6x² + 2x"
+      ],
+      "respuesta": "6x + 2"
+    },
+    {
+      "pregunta": "Resuelve: ∫(2x + 3)dx",
+      "opciones": [
+        "x² + 3x + C",
+        "2x² + 3x + C",
+        "x² + 3 + C",
+        "2x + C"
+      ],
+      "respuesta": "x² + 3x + C"
+    },
+    {
+      "pregunta": "¿Cuál es el valor de lim(x→0) (sen x)/x?",
+      "opciones": [
+        "0",
+        "1",
+        "∞",
+        "No existe"
+      ],
+      "respuesta": "1"
+    },
+    {
+      "pregunta": "¿Determinante de [[2,3],[1,4]]?",
+      "opciones": [
+        "5",
+        "8",
+        "11",
+        "2"
+      ],
+      "respuesta": "5"
+    },
+    {
+      "pregunta": "Si log₂(x) = 5, ¿x = ?",
+      "opciones": [
+        "10",
+        "25",
+        "32",
+        "64"
+      ],
+      "respuesta": "32"
+    },
+    {
+      "pregunta": "sen²(x) + cos²(x) = ?",
+      "opciones": [
+        "0",
+        "1",
+        "2",
+        "sen(2x)"
+      ],
+      "respuesta": "1"
+    }
+  ],
+  "enfermeria": [
+    {
+      "pregunta": "Rango normal de frecuencia cardíaca en adulto en reposo:",
+      "opciones": [
+        "40-60 lpm",
+        "60-100 lpm",
+        "100-120 lpm",
+        "120-140 lpm"
+      ],
+      "respuesta": "60-100 lpm"
+    },
+    {
+      "pregunta": "¿Qué vía de administración tiene efecto más rápido?",
+      "opciones": [
+        "Oral",
+        "Intramuscular",
+        "Intravenosa",
+        "Subcutánea"
+      ],
+      "respuesta": "Intravenosa"
+    },
+    {
+      "pregunta": "Presión arterial normal en adulto:",
+      "opciones": [
+        "90/60 mmHg",
+        "120/80 mmHg",
+        "140/90 mmHg",
+        "160/100 mmHg"
+      ],
+      "respuesta": "120/80 mmHg"
+    },
+    {
+      "pregunta": "¿Qué significa RCP?",
+      "opciones": [
+        "Respiración Cardio Pulmonar",
+        "Reanimación Cardiopulmonar",
+        "Revisión Cardiaca Periódica",
+        "Recuperación Cardio Preventiva"
+      ],
+      "respuesta": "Reanimación Cardiopulmonar"
+    },
+    {
+      "pregunta": "Nivel normal de glucosa en ayunas:",
+      "opciones": [
+        "50-70 mg/dL",
+        "70-100 mg/dL",
+        "100-140 mg/dL",
+        "140-180 mg/dL"
+      ],
+      "respuesta": "70-100 mg/dL"
+    }
+  ],
+  "ingles": [],
+  "computacion": [],
+  "Historia": [],
+  "Geografía": []
+}
