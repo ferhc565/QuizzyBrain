@@ -1,0 +1,41 @@
+
+body { margin:0; font-family:Arial, sans-serif; }
+.bg {
+  position:fixed; inset:0;
+  background:url('img/background.png');
+  background-size:cover;
+  opacity:0.25;
+}
+.container { position:relative; z-index:2; max-width:420px; margin:auto; padding:20px; }
+.logo { width:80px; display:block; margin:auto; }
+header { text-align:center; margin-bottom:20px; }
+.card {
+  background:#0a152b; color:white;
+  padding:20px; border-radius:20px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.4); margin-bottom:20px;
+}
+#category-list button {
+  width:100%; padding:12px; margin:6px 0;
+  border-radius:50px; border:none; color:white; font-size:1.1rem;
+}
+.btn {
+  width:100%; padding:12px;
+  border:none; border-radius:50px;
+  background:linear-gradient(90deg,#2563eb,#ec4899);
+  color:white; font-size:1.1rem; margin-top:15px;
+}
+.config {
+  width:100%; padding:10px;
+  background:#1e293b; color:white;
+  border-radius:50px; border:1px solid #334155;
+}
+.modal {
+  position:fixed; inset:0; background:rgba(0,0,0,0.5);
+  display:none; justify-content:center; align-items:center;
+}
+.modal-box {
+  background:white; padding:20px; border-radius:15px; width:80%;
+}
+.times button {
+  padding:8px 14px; margin:5px; border-radius:10px; border:none; background:#2563eb; color:white;
+}
